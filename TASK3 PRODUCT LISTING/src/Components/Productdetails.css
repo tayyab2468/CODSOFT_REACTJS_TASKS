@@ -1,0 +1,10 @@
+.product-details {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .product-image {
+    width: 100%; /* Adjust based on your layout */
+    cursor: zoom-in;
+  }
